@@ -1,0 +1,38 @@
+{
+	"format": "CHIP-0007",
+	"name": "",
+	"description": "",
+	"sensitive_content": false,
+	"collection": {
+		"name": "",
+		"id": "UUID-FOR-COLLECTION",
+		"attributes": [
+			{
+				"type": "description",
+				"value": ""
+			},
+			{
+				"type": "twitter",
+				"value": ""
+			},
+			{
+				"type": "website",
+				"value": ""
+			},
+			{
+				"type": "icon",
+				"value": ""
+			},
+			{
+				"type": "banner",
+				"value": ""
+			}
+		]
+	},
+	"attributes": [
+		{
+			"trait_type": "Number",
+			"value": "1"
+		}
+	]
+}
