@@ -1,4 +1,4 @@
-# CHIA NFT UTIL
+# CHIA NFTUtil
 
 ## Intro
 
