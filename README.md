@@ -44,6 +44,7 @@ Note: Collections "exist" only as aggregates of individual NFTS that report the 
 
 -   Implement Ardrive API to handle uploading Images, metadata, and generating manifests.
 -   Handle file extensions properly (don't just assume ".jpg")
--   Speed up NFT minting
+-   Speed up NFT minting via spendbundles
+-   Improve minting script to poll blockchain for successfully minted NFTs, rather than waiting 40s between mints.
 
 Please feel free to reach out to me on Keybase [@magnoolia](https://keybase.io/magnoolia), or by email: imagenaria@proton.me or twitter: [@imagenariaNFT](https://twitter.com/imagenariaNFT)
