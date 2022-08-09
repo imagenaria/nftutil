@@ -17,6 +17,9 @@ I recommend you read through these two guides before running this tool, to get f
 - https://devs.chia.net/guides/nft-intro/
 - https://github.com/scrutinously/chia-scripts/wiki/Chia-NFTs
 
+NOTE: 
+The minter.py script, in my experience, starts to hang up and fail if you don't have enough spendable coins in your wallet. I was able to get around this by doing some manual coin splitting (just sending 2000 mojo transactions back to the wallet). I've also had to go and delete_unconfirmed_transactions a few times in order to continue minting. I also have had issues running other wallet commands during the minting, FYI
+
 ## Steps:
 
 Note: Right now, all your images have to be jpg files and end with ".jpg". I will update this tool to respect the actual file extensions of the nft images, but for now please take note of this.
